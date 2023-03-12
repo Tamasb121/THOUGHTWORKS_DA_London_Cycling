@@ -3,10 +3,15 @@ LSE Data Analytics Course: Employer Project
 Requirements:
 
 -write a project plan that outlines the project timeline, objectives, tasks, and milestones (This includes identifying and defining the problem statement and conducting research relevant to the business scenario to inform analyses and recommendations.)
+
 -conduct exploratory data analysis and analyse the data sets provided to develop insights that can inform innovation processes, seeking additional data as required to support relevant analysis 
+
 -document the analysis
+
 -prepare data-informed recommendations to give to the business, including the intended outcomes of your recommendations and the justification of this recommendation as a critical focus area
+
 -create compelling visualisations (This might mean preparing a data dashboard, composing a narrative with data storytelling, or designing a slide deck to support the recommendations being put forward, outlining the existing context and the expected future scenario.)
+
 -present the insights, recommendations, and justification of the approach, along with the rationale and supporting evidence, in a written report and as part of a group presentation shared with the relevant employer partner.  
 
 Scenario:
