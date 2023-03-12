@@ -34,12 +34,16 @@ The semi-wrangled data has been collected from the following sources:
 
 London, England
 Cycling Infrastructure Database
+https://data.london.gov.uk/dataset/cycling-infrastructure-database
 Contains comprehensive details of cycling infrastructure across London, including cycle lanes and tracks, cycle parking, and signalised crossings for cycles
 Monthly statistics on the number of cyclists on Superhighways CS3 and CS6
 From the counters at Blackfriars Bridge and Victoria Embankment
+https://cycling.data.tfl.gov.uk/
 
 Sydney, Australia
-Cycling Infrastructure Data, specifically:
+Cycling Infrastructure Data,
+https://opendata.transport.nsw.gov.au/dataset/infrastructure-cycleway-data
+specifically:
 Bicycle count explorer
 Bicycle count sites
 Contains data for the whole of New South Wales, which includes Sydney
@@ -51,6 +55,7 @@ Shapefile for the TfNSW bicycle network maintained by Roads and Maritime Service
 
 New York City, USA
 NYC Open Data
+https://data.cityofnewyork.us/Transportation/Bicycle-Counts/uczf-rk3c
 Bicycle counts at key locations
 Bicycle routes 
 Bicycle parking 
