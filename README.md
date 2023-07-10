@@ -1,4 +1,4 @@
-LSE Data Analytics Course: Employer Project
+LSE Data Analytics Course: Employer Project - Thoughtworks
 
 Requirements:
 
